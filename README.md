@@ -136,7 +136,8 @@
 
 <!-- GETTING STARTED -->
 ## Getting Started
-<details> <p>FOR COMMAND LINE USAGE</p>
+<details> 
+<summary> FOR COMMAND LINE USAGE </summary>
 <!-- SETUP -->
 ### Setup
 #### Git global setup
