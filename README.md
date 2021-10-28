@@ -75,6 +75,9 @@
   <a href="https://github.com/">
     <img alt="Github" src="https://img.shields.io/badge/-Github-black.svg?style=social&logo=github&colorB=555">
   </a>
+  <a href="https://aws.amazon.com//">
+    <img alt="Github" src="https://img.shields.io/badge/-AWS-black.svg?style=social&logo=aws&colorB=555">
+  </a>
   <a href="https://cloud.tencent.com/">
     <img alt="Tencent工蜂" src="https://img.shields.io/badge/-Tencent-black.svg?style=social&logo=tencentqq&colorB=555">
   </a>
