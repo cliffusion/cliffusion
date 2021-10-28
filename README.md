@@ -136,7 +136,7 @@
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
+<details>
 <!-- SETUP -->
 ### Setup
 #### Git global setup
@@ -187,6 +187,6 @@ git commit -m "init" -a
 git push -u origin master
 git pull
 ```
-
+</details>
 👋🏼
 <p align="right">(<a href="#hello-world">back to top</a>)</p>
