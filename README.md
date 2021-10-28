@@ -39,9 +39,9 @@ Involement in many aspects of my life, will look back to github once in awhile.
 <!-- ABOUT THIS REPOSITORY -->
 ## About This Repository
 
-<!-- PROJECT SHIELDS -->
+<!-- PROJECT INFO -->
 <!--
-*** I'm using markdown "reference style" links for readability.
+*** Using markdown "reference style" links for readability.
 *** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
 *** See the bottom of this document for the declaration of the reference variables
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
@@ -58,15 +58,15 @@ Involement in many aspects of my life, will look back to github once in awhile.
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 <!--
 [contributors-shield]: https://img.shields.io/?style=for-the-badge
-[contributors-url]: https://XXXXX/cliffching/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://XXXXX/cliffching/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://XXXXX/cliffching/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://XXXXX/cliffching/cc-secret-labs#1
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://XXXXX/cliffching/Best-README-Template/blob/master/LICENSE.txt
+[contributors-url]: https://XXXXX/CCC/Best-README-Template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/CCC/Best-README-Template.svg?style=for-the-badge
+[forks-url]: https://XXXXX/CCC/Best-README-Template/network/members
+[stars-shield]: https://img.shields.io/github/stars/CCC/Best-README-Template.svg?style=for-the-badge
+[stars-url]: https://XXXXX/CCC/Best-README-Template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/CCC/Best-README-Template.svg?style=for-the-badge
+[issues-url]: https://XXXXX/CCC/cc-secret-labs#1
+[license-shield]: https://img.shields.io/github/license/CCC/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://XXXXX/CCC/Best-README-Template/blob/master/LICENSE.txt
 -->
 
 <!-- SHORTCUT LINKS -->
@@ -142,6 +142,9 @@ Involement in many aspects of my life, will look back to github once in awhile.
   </a>
   <a href="https://www.docker.com">
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-black.svg?style=social&logo=docker&colorB=555">
+  </a>
+  <a href="https://brew.sh/">
+    <img alt="HomeBrew" src="https://img.shields.io/badge/-HomeBrew-black.svg?style=social&logo=homebrew&colorB=555">
   </a>
   <a href="https://www.flickr.com">
     <img alt="Flickr" src="https://img.shields.io/badge/-Flickr-black.svg?style=social&logo=flickr&colorB=555">
