@@ -16,7 +16,7 @@
       <ul>
         <li><a href="#shorcut-links">Shortcut Links</a></li>
         <li><a href="#built-with">Built With</a></li>
-        <li><a href="#tech-involvement">Tech Involvement</a></li>
+        <li><a href="#my-involvement">My Involvement</a></li>
       </ul>
     </li>
     <li>
@@ -79,7 +79,6 @@ Involement in many aspects of my life, will look back to github once in awhile.
   <a href="https://www.flickr.com/people/160107064@N06/">
     <img alt="My Flickr" src="https://img.shields.io/badge/-MyFlickr-black.svg?style=plastic&logo=flickr&colorB=555">
   </a>
-
 </p>
 
 <!-- BUILT WITH -->
@@ -102,8 +101,8 @@ Involement in many aspects of my life, will look back to github once in awhile.
   </a>
 </p>
 
-<!-- TECH INVOLVEMENT -->
-### Tech Involvement
+<!-- MY INVOLVEMENT -->
+### My Involvement
 <p align="center">
   <a href="https://aws.amazon.com">
     <img alt="Amazon AWS" src="https://img.shields.io/badge/-AWS-black.svg?style=social&logo=amazonaws&colorB=555">
@@ -143,6 +142,9 @@ Involement in many aspects of my life, will look back to github once in awhile.
   </a>
   <a href="https://www.docker.com">
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-black.svg?style=social&logo=docker&colorB=555">
+  </a>
+  <a href="https://www.flickr.com">
+    <img alt="Flickr" src="https://img.shields.io/badge/-Flickr-black.svg?style=social&logo=flickr&colorB=555">
   </a>
 </p>
 
