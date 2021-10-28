@@ -9,6 +9,9 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
+      <a href="#about-me">About Me</a>
+   </li>
+    <li>
       <a href="#about-this-repository">About This Repository</a>
       <ul>
         <li><a href="#shorcut-links">Shortcut Links</a></li>
@@ -25,6 +28,13 @@
     </li>
   </ol>
 </details>
+
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=cliffusion.cliffusion&color=00df00)
+
+<!-- ABOUT ME -->
+## About ME
+Involement in many aspects of my life, will look back to github once in awhile.
+
 
 <!-- ABOUT THIS REPOSITORY -->
 ## About This Repository
