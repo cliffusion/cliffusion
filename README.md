@@ -74,8 +74,12 @@ Involement in many aspects of my life, will look back to github once in awhile.
 <!-- PERSONAL INFORMATION -->
 <p align="center">
   <a href="https://linkedin.com/sg/cliffching">
-    <img alt="My Linkedin" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=555">
+    <img alt="My Linkedin" src="https://img.shields.io/badge/-MyLinkedIn-black.svg?style=plastic&logo=linkedin&colorB=555">
   </a>
+  <a href="https://www.flickr.com/people/160107064@N06/">
+    <img alt="My Flickr" src="https://img.shields.io/badge/-MyFlickr-black.svg?style=plastic&logo=flickr&colorB=555">
+  </a>
+
 </p>
 
 <!-- BUILT WITH -->
