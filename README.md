@@ -209,4 +209,117 @@ git pull
 ```
 </details>
 👋🏼
+
+## Map Locations
+### 📍 Where I work
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apple South Asia AMK 2",
+        "address": "12 Ang Mo Kio Street 64, Singapore 569088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.84655, 1.39043]
+      }
+    }
+  ]
+}
+```
+
+### 🌏 Crypto Services — Global Team Constellation
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Singapore — AMK 2 (My base)",
+        "team": "Crypto Services APAC",
+        "emoji": "🇸🇬",
+        "role": "HQ / My work location",
+        "address": "12 Ang Mo Kio Street 64, Singapore 569088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.84655, 1.39043]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Austin",
+        "team": "Crypto Services US",
+        "emoji": "🇺🇸",
+        "role": "Engineering & Cloud",
+        "address": "12545 Riata Vista Circle, Austin, TX 78727"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.7530, 30.4032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cupertino",
+        "team": "Crypto Services HQ",
+        "emoji": "🇺🇸",
+        "role": "Strategy & Security",
+        "address": "1 Apple Park Way, Cupertino, CA 95014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.0106415, 37.3301996]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shanghai",
+        "team": "Crypto Services China",
+        "emoji": "🇨🇳",
+        "role": "Partnerships & Payments",
+        "address": "300 East Nanjing Road, Shanghai, China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.47967, 31.23949]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Global collaboration loop",
+        "description": "Singapore ↔ Shanghai ↔ Cupertino ↔ Austin ↔ Singapore"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.84655, 1.39043],
+          [121.47967, 31.23949],
+          [-122.0106415, 37.3301996],
+          [-97.7530, 30.4032],
+          [103.84655, 1.39043]
+        ]
+      }
+    }
+  ]
+}
+```
+
 <p align="right">(<a href="#hello-world">back to top</a>)</p>
+
+
+
+
+
+
+
