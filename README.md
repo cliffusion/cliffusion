@@ -211,6 +211,7 @@ git pull
 👋🏼
 
 ## Map Locations
+<details>
 ### 📍 Where I work
 
 ```geojson
@@ -232,7 +233,7 @@ git pull
 }
 ```
 
-### 🌏 Crypto Services — Global Team Constellation
+### 🌏 My Global Collaborations
 
 ```geojson
 {
@@ -314,6 +315,7 @@ git pull
   ]
 }
 ```
+</details>
 
 <p align="right">(<a href="#hello-world">back to top</a>)</p>
 
