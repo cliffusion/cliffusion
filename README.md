@@ -211,7 +211,7 @@ git pull
 👋🏼
 
 ## Map Locations
-<details>
+<details open>
 ### 📍 Where I work
 
 ```geojson
