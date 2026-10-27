@@ -243,9 +243,9 @@ git pull
       "type": "Feature",
       "properties": {
         "name": "Singapore — AMK 2 (My base)",
-        "team": "Crypto Services APAC",
+        "team": "CS APAC",
         "emoji": "🇸🇬",
-        "role": "HQ / My work location",
+        "role": "Singapore Office",
         "address": "12 Ang Mo Kio Street 64, Singapore 569088"
       },
       "geometry": {
@@ -257,9 +257,9 @@ git pull
       "type": "Feature",
       "properties": {
         "name": "Austin",
-        "team": "Crypto Services US",
+        "team": "CS Austin",
         "emoji": "🇺🇸",
-        "role": "Engineering & Cloud",
+        "role": "US Austin Office",
         "address": "12545 Riata Vista Circle, Austin, TX 78727"
       },
       "geometry": {
@@ -271,9 +271,9 @@ git pull
       "type": "Feature",
       "properties": {
         "name": "Cupertino",
-        "team": "Crypto Services HQ",
+        "team": "CS Cupertino",
         "emoji": "🇺🇸",
-        "role": "Strategy & Security",
+        "role": "US Cupertino Office",
         "address": "1 Apple Park Way, Cupertino, CA 95014"
       },
       "geometry": {
@@ -285,9 +285,9 @@ git pull
       "type": "Feature",
       "properties": {
         "name": "Shanghai",
-        "team": "Crypto Services China",
+        "team": "CS China",
         "emoji": "🇨🇳",
-        "role": "Partnerships & Payments",
+        "role": "China Shanghai Office",
         "address": "300 East Nanjing Road, Shanghai, China"
       },
       "geometry": {
