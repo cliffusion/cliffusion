@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 100" width="100%" role="img" aria-label="Animated water divider (Wu Xing)">
+  <defs>
+    <linearGradient id="w1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3a7bd5"/><stop offset="1" stop-color="#7a5cff"/></linearGradient>
+    <linearGradient id="w2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7a5cff"/><stop offset="1" stop-color="#00c2d1"/></linearGradient>
+    <linearGradient id="w3" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00c2d1"/><stop offset="1" stop-color="#3a7bd5"/></linearGradient>
+  </defs>
+  <path d="M-300 48 Q-225.0 32 -150.0 48 T0.0 48 T150.0 48 T300.0 48 T450.0 48 T600.0 48 T750.0 48 T900.0 48 T1050.0 48 T1200.0 48 T1350.0 48 L1350.0 100 L-300 100 Z" fill="url(#w1)" fill-opacity="0.55"><animateTransform attributeName="transform" type="translate" from="0 0" to="300 0" dur="14s" repeatCount="indefinite"/></path>
+  <path d="M-240 54 Q-180.0 42 -120.0 54 T0.0 54 T120.0 54 T240.0 54 T360.0 54 T480.0 54 T600.0 54 T720.0 54 T840.0 54 T960.0 54 T1080.0 54 T1200.0 54 T1320.0 54 L1320.0 100 L-240 100 Z" fill="url(#w2)" fill-opacity="0.6"><animateTransform attributeName="transform" type="translate" from="0 0" to="240 0" dur="10s" repeatCount="indefinite"/></path>
+  <path d="M-180 62 Q-135.0 53 -90.0 62 T0.0 62 T90.0 62 T180.0 62 T270.0 62 T360.0 62 T450.0 62 T540.0 62 T630.0 62 T720.0 62 T810.0 62 T900.0 62 T990.0 62 T1080.0 62 T1170.0 62 T1260.0 62 T1350.0 62 L1350.0 100 L-180 100 Z" fill="url(#w3)" fill-opacity="0.85"><animateTransform attributeName="transform" type="translate" from="0 0" to="180 0" dur="7s" repeatCount="indefinite"/></path>
+</svg>

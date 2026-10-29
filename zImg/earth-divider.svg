@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 100" width="100%" role="img" aria-label="Animated earth divider (Wu Xing)">
+
+  <defs>
+    <linearGradient id="e1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d9b44a"/><stop offset="1" stop-color="#b8892b"/></linearGradient>
+    <linearGradient id="e2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b9822f"/><stop offset="1" stop-color="#8a5a22"/></linearGradient>
+    <linearGradient id="e3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8a5a22"/><stop offset="1" stop-color="#5e3d18"/></linearGradient>
+  </defs>
+  <path d="M-220 100 L-220 60 L-165 20 L-110 60 L-55 38 L0 60 L55 28 L110 60 L165 20 L220 60 L275 38 L330 60 L385 28 L440 60 L495 20 L550 60 L605 38 L660 60 L715 28 L770 60 L825 20 L880 60 L935 38 L990 60 L1045 28 L1100 60 L1155 20 L1210 60 L1265 38 L1320 60 L1375 28 L1430 60 L1485 20 L1540 60 L1595 38 L1650 60 L1705 28 L1760 60 L1815 20 L1870 60 L1925 38 L1980 60 L2035 28 L2090 60 L2090 100 Z" fill="url(#e1)" fill-opacity="0.6"><animateTransform attributeName="transform" type="translate" from="0 0" to="330 0" dur="60s" repeatCount="indefinite"/></path>
+  <path d="M-160 100 L-160 70 L-120 46 L-80 70 L-40 36 L0 70 L40 53 L80 70 L120 41 L160 70 L200 46 L240 70 L280 36 L320 70 L360 53 L400 70 L440 41 L480 70 L520 46 L560 70 L600 36 L640 70 L680 53 L720 70 L760 41 L800 70 L840 46 L880 70 L920 36 L960 70 L1000 53 L1040 70 L1080 41 L1120 70 L1160 46 L1200 70 L1240 36 L1280 70 L1320 53 L1360 70 L1400 41 L1440 70 L1480 46 L1520 70 L1560 36 L1600 70 L1640 53 L1680 70 L1720 41 L1760 70 L1800 46 L1840 70 L1880 36 L1920 70 L1960 53 L2000 70 L2040 41 L2080 70 L2080 100 Z" fill="url(#e2)" fill-opacity="0.8"><animateTransform attributeName="transform" type="translate" from="0 0" to="320 0" dur="40s" repeatCount="indefinite"/></path>
+  <path d="M-120 100 L-120 84 L-90 62 L-60 84 L-30 71 L0 84 L30 62 L60 84 L90 71 L120 84 L150 62 L180 84 L210 71 L240 84 L270 62 L300 84 L330 71 L360 84 L390 62 L420 84 L450 71 L480 84 L510 62 L540 84 L570 71 L600 84 L630 62 L660 84 L690 71 L720 84 L750 62 L780 84 L810 71 L840 84 L870 62 L900 84 L930 71 L960 84 L990 62 L1020 84 L1050 71 L1080 84 L1110 62 L1140 84 L1170 71 L1200 84 L1230 62 L1260 84 L1290 71 L1320 84 L1350 62 L1380 84 L1410 71 L1440 84 L1470 62 L1500 84 L1530 71 L1560 84 L1590 62 L1620 84 L1650 71 L1680 84 L1680 100 Z" fill="url(#e3)" fill-opacity="1"><animateTransform attributeName="transform" type="translate" from="0 0" to="120 0" dur="25s" repeatCount="indefinite"/></path>
+  <circle r="1.8" fill="#e6cf8a" opacity="0.6"><animateMotion dur="14.4s" begin="-7.5s" repeatCount="indefinite" path="M-10 19 Q450 5 910 17"/></circle>
+  <circle r="1" fill="#e6cf8a" opacity="0.6"><animateMotion dur="11.0s" begin="-4.9s" repeatCount="indefinite" path="M-10 7 Q450 3 910 15"/></circle>
+  <circle r="1.3" fill="#e6cf8a" opacity="0.6"><animateMotion dur="17.7s" begin="-9.2s" repeatCount="indefinite" path="M-10 30 Q450 24 910 36"/></circle>
+  <circle r="1" fill="#e6cf8a" opacity="0.6"><animateMotion dur="16.9s" begin="-17.9s" repeatCount="indefinite" path="M-10 36 Q450 28 910 40"/></circle>
+  <circle r="1.8" fill="#e6cf8a" opacity="0.6"><animateMotion dur="12.8s" begin="-0.4s" repeatCount="indefinite" path="M-10 36 Q450 24 910 36"/></circle>
+  <circle r="1.8" fill="#e6cf8a" opacity="0.6"><animateMotion dur="15.7s" begin="-18.2s" repeatCount="indefinite" path="M-10 31 Q450 14 910 26"/></circle>
+  <circle r="1.8" fill="#e6cf8a" opacity="0.6"><animateMotion dur="11.2s" begin="-16.3s" repeatCount="indefinite" path="M-10 21 Q450 13 910 25"/></circle>
+  <circle r="1" fill="#e6cf8a" opacity="0.6"><animateMotion dur="14.5s" begin="-13.2s" repeatCount="indefinite" path="M-10 58 Q450 48 910 60"/></circle>
+  <circle r="1" fill="#e6cf8a" opacity="0.6"><animateMotion dur="11.0s" begin="-18.1s" repeatCount="indefinite" path="M-10 49 Q450 45 910 57"/></circle>
+  <circle r="1.3" fill="#e6cf8a" opacity="0.6"><animateMotion dur="19.7s" begin="-12.1s" repeatCount="indefinite" path="M-10 42 Q450 23 910 35"/></circle>
+  <circle r="1.8" fill="#e6cf8a" opacity="0.6"><animateMotion dur="12.3s" begin="-18.9s" repeatCount="indefinite" path="M-10 49 Q450 43 910 55"/></circle>
+  <circle r="1.3" fill="#e6cf8a" opacity="0.6"><animateMotion dur="20.6s" begin="-5.7s" repeatCount="indefinite" path="M-10 42 Q450 33 910 45"/></circle>
+  <circle r="1.8" fill="#e6cf8a" opacity="0.6"><animateMotion dur="11.9s" begin="-12.0s" repeatCount="indefinite" path="M-10 13 Q450 3 910 15"/></circle>
+  <circle r="1.8" fill="#e6cf8a" opacity="0.6"><animateMotion dur="21.4s" begin="-16.9s" repeatCount="indefinite" path="M-10 27 Q450 23 910 35"/></circle>
+  <circle r="1.8" fill="#e6cf8a" opacity="0.6"><animateMotion dur="13.7s" begin="-7.1s" repeatCount="indefinite" path="M-10 17 Q450 6 910 18"/></circle>
+  <circle r="1.8" fill="#e6cf8a" opacity="0.6"><animateMotion dur="10.9s" begin="-18.1s" repeatCount="indefinite" path="M-10 47 Q450 43 910 55"/></circle>
+  <circle r="1.3" fill="#e6cf8a" opacity="0.6"><animateMotion dur="12.6s" begin="-4.9s" repeatCount="indefinite" path="M-10 39 Q450 19 910 31"/></circle>
+  <circle r="1.3" fill="#e6cf8a" opacity="0.6"><animateMotion dur="12.6s" begin="-0.7s" repeatCount="indefinite" path="M-10 26 Q450 14 910 26"/></circle>
+  <circle r="1.8" fill="#e6cf8a" opacity="0.6"><animateMotion dur="20.0s" begin="-17.8s" repeatCount="indefinite" path="M-10 24 Q450 9 910 21"/></circle>
+  <circle r="1" fill="#e6cf8a" opacity="0.6"><animateMotion dur="11.4s" begin="-18.7s" repeatCount="indefinite" path="M-10 30 Q450 10 910 22"/></circle>
+  <circle r="1.3" fill="#e6cf8a" opacity="0.6"><animateMotion dur="11.9s" begin="-2.3s" repeatCount="indefinite" path="M-10 54 Q450 46 910 58"/></circle>
+  <circle r="1" fill="#e6cf8a" opacity="0.6"><animateMotion dur="12.0s" begin="-8.7s" repeatCount="indefinite" path="M-10 58 Q450 45 910 57"/></circle>
+</svg>
