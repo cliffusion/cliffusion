@@ -4,6 +4,10 @@
 # HELLO WORLD  <img src="zImg/wave.gif" width="30px">
 🤟🏼
 
+<p align="center">
+  <img src="zImg/wood-divider.svg" alt="Animated wood divider" width="100%">
+</p>
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -35,6 +39,9 @@
 ## About ME
 Involement in many aspects of my life, will look back to github once in awhile.
 
+<p align="center">
+  <img src="zImg/night-sky-banner.svg" alt="Animated night sky banner" width="100%">
+</p>
 
 <!-- ABOUT THIS REPOSITORY -->
 ## About This Repository
@@ -71,7 +78,7 @@ Involement in many aspects of my life, will look back to github once in awhile.
 
 <!-- SHORTCUT LINKS -->
 ### Shortcut Links
-<!-- PERSONAL INFORMATION -->
+<!-- PERSONAL INFORMATION -->pp x
 <p align="center">
   <a href="https://linkedin.com/sg/cliffching">
     <img alt="My Linkedin" src="https://img.shields.io/badge/-MyLinkedIn-black.svg?style=plastic&logo=linkedin&colorB=555">
